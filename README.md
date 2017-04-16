@@ -2,6 +2,7 @@ Sony Xperia Z
 =============
 
 This is the Android device configuration for Xperia Z (fusion3 platform).
+Device tree for AICP.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
