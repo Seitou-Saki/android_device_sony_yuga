@@ -16,7 +16,7 @@
 #
 
 # Inherit common LineageOS stuff
-$(call inherit-product, vendor/aicp/configs/common_full_phone.mk)
+$(call inherit-product, vendor/aicp/configs/common.mk)
 
 # Inherit device configurations
 $(call inherit-product, device/sony/yuga/device.mk)
